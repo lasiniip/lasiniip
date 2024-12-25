@@ -3,6 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lasiniip&label=Profile%20views&color=0e75b6&style=flat" alt="lasiniip" /> </p>
 <p align="center">
-I’m currently a student learning **Frontend and Backend Development** <br/>
-To reach me **lasinipallewaththa7@gmail.com**
+I’m currently a student learning <b>Frontend and Backend Development</b> <br/>
+To reach me <b>lasinipallewaththa7@gmail.com</b>
 </p>
